@@ -1,6 +1,6 @@
 # Conversational-AI
 
-Contains implementation of conversational AI bots in different plattorms - slack, telegram and more (in progress) 
+Implementation of conversational AI bots in different plattorms - slack, telegram and more (in progress) 
 
 
 ## In progress
